@@ -1,0 +1,14 @@
+{
+  "name": "ktp-ocr-node",
+  "version": "1.0.0",
+  "description": "Make KTP OCR With Tesseract.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Moch Asyral Difa Alfani",
+  "license": "ISC",
+  "dependencies": {
+    "tesseract.js": "^2.1.4"
+  }
+}
